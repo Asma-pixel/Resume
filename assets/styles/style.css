@@ -39,6 +39,7 @@ h4 {
 
 .title-name {
   margin: 24px 0;
+  color: #198f7f;
 }
 
 .title-name h1 {
@@ -47,6 +48,10 @@ h4 {
 
 .title-name h2 {
   font-size: 24px;
+}
+
+.title-name h3 {
+  font-size: 16px;
 }
 
 .contacts {
@@ -90,16 +95,22 @@ h4 {
   margin-bottom: 14px;
 }
 
+.post {
+  margin-bottom: 15px;
+  font-size: 14px;
+  color: rgba(0, 0, 0, 0.6);
+}
+
 .experience-block h4 {
   margin: 0;
 }
 
-.experience-block .post {
-  margin-bottom: 15px;
-}
-
 .charge ul {
   margin: 10px 0 0 20px;
+}
+
+.lang-block .e-text {
+  width: 100%;
 }
 
 .skills {

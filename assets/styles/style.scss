@@ -28,12 +28,16 @@ h4 {
 }
 .title-name {
   margin: 24px 0;
+  color: rgb(25, 143, 127);
   h1 {
     font-size: 36px;
   }
   h2 {
     font-size: 24px;
   }
+ h3 {
+   font-size: 16px;
+ }
 }
 .contacts {
   display: flex;
@@ -62,18 +66,23 @@ h4 {
     margin-bottom: 14px;
   }
 }
+.post {
+  margin-bottom: 15px;
+  font-size: 14px;
+  color : rgba(#000000, .6);
+}
 .experience-block {
   h4 {
     margin: 0;
-  }
-  .post {
-    margin-bottom: 15px;
   }
 }
 .charge {
   ul {
     margin: 10px 0 0 20px;
   }
+}
+.lang-block .e-text{
+  width:100%;
 }
 .skills {
   border: none;
